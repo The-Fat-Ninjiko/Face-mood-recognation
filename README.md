@@ -1,5 +1,5 @@
 # Face-Mood-Recognation
- a website application that knows the current mood state of the user 
+ A website application that knows the current mood state of the user 
 
 
 in order to run the application you have to run the code through localhost.
